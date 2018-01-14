@@ -1,3 +1,9 @@
+'''
+    AUTHOR: DANIEL LEE
+    LAST UPDATE ON: JAN 14, 2018
+'''
+
+
 import math
 import string
 import array
