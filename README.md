@@ -2,10 +2,10 @@
 A simple chord distributed hash table programmed in Python 
 
 # Description
-
+<pre>
 This program reads inputs from a txt.file formatted as follows:
 
-S // Hash space [0 ... 2^S-1]
+S // Hash space [0 ... 2^S-1] 
 N // Number of joined nodes
 M // Number of keys
 id1, id2, ... , idN // Hashed node ids, joined in order
@@ -38,6 +38,6 @@ the out will be
 1 0 0
 2 2 2
 1 6 0
-
+</pre>
 # For more info
 https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
